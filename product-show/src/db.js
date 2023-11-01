@@ -117,7 +117,7 @@ const products = [
     // Add more products here
   ];
   
-  const categories = ["All", "Category A", "Category B"];
+  const categories = ["All", "Mobiles", "Desktop"];
   
   export { products, categories };
   
