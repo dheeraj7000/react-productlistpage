@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-productlistpage/static/css/main.af00eef1.css",
-    "main.js": "/react-productlistpage/static/js/main.761cfbd4.js",
+    "main.js": "/react-productlistpage/static/js/main.284a8292.js",
     "static/js/787.4c52a892.chunk.js": "/react-productlistpage/static/js/787.4c52a892.chunk.js",
     "index.html": "/react-productlistpage/index.html",
     "main.af00eef1.css.map": "/react-productlistpage/static/css/main.af00eef1.css.map",
-    "main.761cfbd4.js.map": "/react-productlistpage/static/js/main.761cfbd4.js.map",
+    "main.284a8292.js.map": "/react-productlistpage/static/js/main.284a8292.js.map",
     "787.4c52a892.chunk.js.map": "/react-productlistpage/static/js/787.4c52a892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af00eef1.css",
-    "static/js/main.761cfbd4.js"
+    "static/js/main.284a8292.js"
   ]
 }
