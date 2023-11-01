@@ -1,4 +1,3 @@
-// Filters.js
 import React from "react";
 
 const Filters = ({ categories, category, onCategoryChange, priceSort, onPriceSortChange }) => {
