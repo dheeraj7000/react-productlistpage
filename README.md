@@ -6,11 +6,16 @@ To get started with the app, clone the repository and install the dependencies:
 Copy
 
 git clone https://github.com/your-username/react-productlistpage.git
-->cd react-app
-->npm install
+
+  ->cd product-show
+  
+  ->npm install
+  
 Available Scripts
 In the project directory, you can run:
-->npm start
+
+  ->npm start
+  
 Runs the app in development mode.
 
 Open http://localhost:3000 to view it in the browser.
