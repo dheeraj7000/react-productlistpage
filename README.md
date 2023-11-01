@@ -5,7 +5,7 @@ Getting Started
 To get started with the app, clone the repository and install the dependencies:
 Copy
 
-git clone https://github.com/your-username/react-productlistpage.git
+git clone [https://github.com/your-username/react-productlistpage.git](https://github.com/dheeraj7000/react-productlistpage.git)
 
   ->cd product-show
   
